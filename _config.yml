@@ -24,7 +24,7 @@ baseurl: ""
 navbar-links:
   Home: "https://ldralighieri.github.io"
   Projects:
-    - Corbind: "https://github.com/LDRAlighieri/Corbind/"
+    - Corbind: "https://ldralighieri.github.io/Corbind/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
