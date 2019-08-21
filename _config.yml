@@ -22,7 +22,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "https://ldralighieri.github.io"
   Projects:
     - Corbind: "https://github.com/LDRAlighieri/Corbind/"
 
