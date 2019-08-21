@@ -2,6 +2,7 @@
 layout: page
 title: Vladimir Raupov
 subtitle: I'm a software engineer. Android and iOS.
+meta-description: Vladimir Raupov personal site about Android and iOS development.
 ---
 
 I'm Vladimir **LDRAlighieri** Raupov, a software developer from Khabarovsk, Russia. I mainly develop applications for Android and iOS and useful libraries to speed up development.
