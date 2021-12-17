@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Vladimir Raupov
-subtitle: I'm a software engineer. Android and iOS.
-description: Vladimir Raupov personal site about Android and iOS development.
-tags: [ldralighieri,corbind,android,ios]
+title: Saba Etezad Razavi
+subtitle: Welcome to my Homepage
+description: Frankestein would want your mind!
+tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 ---
 
-I'm Vladimir **LDRAlighieri** Raupov, a software developer from Khabarovsk, Russia. I mainly develop applications for Android and iOS and useful libraries to speed up development.
-Unfortunately you will not find all my projects on this site, only a small part of them. Most of the projects that I have done in recent years have been commercial and I have no right to open source code.
+I’m a 5th-year undergraduate physics student at [](Sharif University of Technology) currently wandering in Germany! I’m a research intern at the data analysis group in [](Max Planck Institute for Gravitational Physics) - Hannover. I work on the mystery of the universe’s acceleration using the observed gravitational waves by the LIGO-Virgo collaboration. Previously I was a research intern at the High-z group in [](Max Planck Institue for Astronomy) - Heidelberg, where I was investigating the IGM’s Helium re-ionization epoch. Ahead of that, I was a research assistant at SUT, working on deep learning dark matter structure formation.
 
-But I can show those projects that I created for personal use and for the community.
+I mostly do theory, data analysis, and machine learning in cosmology. Still, I would love to dig into actual observations whenever it happens.
+Most of the questions that keep me awake at night circle around finding the best cosmological model and theory of gravity.
 
-**Thank you**.
+My research interests include many specific questions, from the evolution and formation of the supermassive black holes to the nature of dark matter and dark energy, large-scale structure formation, and tracing the seed for the structures in the early universe. I also have intense feelings toward the concept of Primordial Black Holes =)) !!
+
+**Check out my public CV to know more about my works [](here) (some links are disabled in this public version). If you want more information, just send me an [](email).**
+
