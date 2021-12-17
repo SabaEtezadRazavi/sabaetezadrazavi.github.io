@@ -11,7 +11,7 @@ description: It's my personal webiste!
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://ldralighieri.github.io"
+url: "https://sabaetezadrazavi.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -157,7 +157,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Vladivostok"
+timezone: "Germany"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
