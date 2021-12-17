@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: LDRAlighieri Lair
+title: Saba Etezad Razavi
 
 # Short description of your site
-description: Vladimir Raupov personal site about Android and iOS development.
+description: It's my personal webiste!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://ldralighieri.github.io"
+  Home: "https://sabaetezadrazavi.github.io"
   Projects: "projects"
 
 # Image to show in the navigation bar - image must be a square (width = height)
