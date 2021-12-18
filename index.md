@@ -7,11 +7,9 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 ---
   
  
-# Color Test Document
-
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
+<style>H1{color:White;}</style>
+<style>H2{color:White;}</style>
+<style>p{color:White;}</style>
 
 ## About Me
 
