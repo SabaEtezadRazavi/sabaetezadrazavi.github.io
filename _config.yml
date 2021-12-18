@@ -42,12 +42,13 @@ avatar: "/img/avatar.jpg"
 navbar-col: "#404040" #"#FFFFFF"
 navbar-text-col: "#c0c0c0"
 navbar-children-col: "#c0c0c0"
+text-col: "#c0c0c0"
 page-col: "#c0c0c0" #"#FFFFFF"
 link-col: "#c0c0c0" #"#008AFF"
 hover-col: "#c0c0c0" #"#0085A1"
 footer-col: "#F5F5F5"
-footer-text-col: "#c0c0c0"
-footer-link-col: "#c0c0c0"
+footer-text-col: "#404040"
+footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
