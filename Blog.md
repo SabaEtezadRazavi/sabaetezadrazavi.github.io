@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Blog
-subtitle: Things I write or read for fun!
-description: Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald
+title: This is a Blog! 
+subtitle: Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald
+description: Writing for fun!
 tags: [sabaetezadrazavi]
 ---
 
