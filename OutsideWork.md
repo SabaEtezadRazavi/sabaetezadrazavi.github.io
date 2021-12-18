@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outside Work
-subtitle: Woah! What a wonderful world!
+subtitle: <p style="color:red;"> Woah! What a wonderful world! </p>
 description: booyi wooyi
 show-avatar: false
 tags: [sabaetezadrazavi]
