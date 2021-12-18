@@ -13,5 +13,5 @@ Most of the questions that keep me awake at night circle around finding the best
 
 My research interests include many specific questions, from the evolution and formation of the supermassive black holes to the nature of dark matter and dark energy, large-scale structure formation, and tracing the seed for the structures in the early universe. I also have intense feelings toward the concept of Primordial Black Holes =)) !!
 
-**Check out my public CV to know more about my works [](here) (some links are disabled in this public version). If you want more information, just send me an [](email).**
+**Check out my public CV to know more about my works [](here) (some links are disabled in this public version). If you want more information, just send me an ()[email].**
 
