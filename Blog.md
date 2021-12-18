@@ -3,6 +3,8 @@ layout: page
 title: This is a Blog! 
 subtitle: Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald
 description: Writing for fun!
+show-avatar: false
+image: /img/blog.png
 tags: [sabaetezadrazavi]
 ---
 
