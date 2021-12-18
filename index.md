@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Saba Etezad Razavi
-subtitle: Welcome to my Homepage
+subtitle: <p style="color:#ff7f50;"> Welcome to my Homepage </p>
 description: Frankestein would want your mind!
 tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 ---
-  
-<style>{color:White;}</style>
- 
+   
 <style>H1{color:White;}</style>
 <style>H2{color:White;}</style>
 <style>H3{color:White;}</style>
