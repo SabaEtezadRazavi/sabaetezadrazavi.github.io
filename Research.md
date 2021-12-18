@@ -8,6 +8,16 @@ tags: [sabaetezadrazavi,cosmology,astrophysic,machinelearning]
 ---
 
 
+
+<style>{color:White;}</style>
+ 
+<style>H1{color:White;}</style>
+<style>H2{color:White;}</style>
+<style>H3{color:White;}</style>
+<style>p{color:White;}</style>
+
+
+
 I mostly do theory, data analysis, and machine learning in cosmology. Still, I would love to dig into actual observations whenever it happens.
 Most of the questions that keep me awake at night circle around finding the best cosmological model and theory of gravity.
 
