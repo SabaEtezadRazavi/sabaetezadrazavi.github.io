@@ -3,6 +3,7 @@ layout: page
 title: Research
 subtitle: Here you can find a summary on some of my research projects.
 description: my research
+show-avatar: false
 tags: [sabaetezadrazavi,cosmology,astrophysic,machinelearning]
 ---
 
