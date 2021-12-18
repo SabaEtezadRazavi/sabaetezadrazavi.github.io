@@ -24,7 +24,7 @@ baseurl: ""
 navbar-links:
   Home: "https://sabaetezadrazavi.github.io"
   Research: "Research"
-  Outside Physics: "Outside Physics"
+  Outside Physics: "OutsideWork"
   Blog: "Blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
