@@ -1,4 +1,12 @@
 ---
+layout: page
+title: This is a Blog! 
+subtitle: <style>{color:White;}Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald </style>
+description: Writing for fun!
+show-avatar: false
+image: /img/blog.png
+tags: [sabaetezadrazavi]
+---
 <style>{color:White;}</style>
  
 <style>H1{color:White;}</style>
@@ -8,14 +16,6 @@
 
 
 
-layout: page
-title: This is a Blog! 
-subtitle: Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald 
-description: Writing for fun!
-show-avatar: false
-image: /img/blog.png
-tags: [sabaetezadrazavi]
----
 
 
 
