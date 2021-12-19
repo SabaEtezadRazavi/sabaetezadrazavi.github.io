@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This is a Blog! 
-subtitle: <span style="color: red;">Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald </span>
+subtitle: <span style=color: red;>Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald </span>
 description: Writing for fun!
 show-avatar: false
 image: /img/blog.png
