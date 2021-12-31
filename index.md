@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Saba Etezad-Razavi
-subtitle: Welcome to my Homepage
+subtitle: 
 description: Frankestein would want your mind!
 tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 ---
@@ -12,7 +12,7 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 <style>p{color:White;}</style>
 
 
-<h1 align="center">Material Bread</h1>
+<h1 align="center">Welcome to my Homepage</h1>
 
 
 ## About Me
