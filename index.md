@@ -15,8 +15,6 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 
 <h1 align="center"> <p style="color:orange;"> Welcome to my Homepage </p> </h1>
 
-
-<p align="center">
    
 ## About Me
 
@@ -24,4 +22,3 @@ I’m a 5th-year undergraduate physics student at [Sharif University of Technolo
 
 **Check out my public [CV](https://pdf.ac/sT0j5) to know more about my works [](here) (some links are disabled in this public version). If you want more information, just send me an [email](mailto:saba.etezad@physics.sharif.edu).**
 
-</p>
