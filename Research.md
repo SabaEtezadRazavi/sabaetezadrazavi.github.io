@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: <p style="color:silver;">Here you can find a summary on some of my research projects.</p>
+subtitle: 
 description: my research
 show-avatar: false
 tags: [sabaetezadrazavi,cosmology,astrophysic,machinelearning]
@@ -15,6 +15,9 @@ tags: [sabaetezadrazavi,cosmology,astrophysic,machinelearning]
 <style>H2{color:White;}</style>
 <style>H3{color:White;}</style>
 <style>p{color:White;}</style>
+
+
+<h1 align="center"> <p style="color:silver;">Here you can find a summary on some of my research projects.</p> </h1>
 
 
 
