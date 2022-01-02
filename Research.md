@@ -31,6 +31,7 @@ Here you will find some of my open-source projects. I will update this list over
 
 
 
+
 # Deep Learning large Scale Structure Formation
 
 Can we use complex deep learning mappings to gain physical insight into the super non-linear process of dark matter halo collapse? What will it tell us about the role of the initial condition of the universe in the number density of the halos in the current universe? In this work, we tried to answer these questions.  
@@ -39,11 +40,17 @@ Can we use complex deep learning mappings to gain physical insight into the supe
 [![deep](./img/deep.jpg)](https://github.com/Machine-Learning-in-Structure-formation/NLSFML)
 
 
+
+
+
 # Constraining temperature fluctuations in the Inter-Galactic Medium (IGM)
 
 When did the Helium in the IGM become Ionized? How long did it last for the universe to reach equilibrium again after this re-ionization phase? What was the distribution of the HeII ionizing sources? Did they all turn on at the same time? We tried capsulated all these crucial questions about the IGM and the quasars (the most probable sources of HeII ionization) into one single question and tried to answer it. How did the temperature of the universe affected by this ionization process? Can we even observe the imprints of ionization on the IGM's temperature? 
 Results ar ready and will become publicly available soon.
 [![IGM](./img/IGM.png)]()
+
+
+
 
 # How fast is the Universe expanding (measurement of H0 value) ?!
 
@@ -52,6 +59,9 @@ I'm trying to answer the question of the Universe's expansion rate using the new
 What is new is how different assumptions about our universe (different cosmological models) can affect these methods? How robust these measurements with gravitational waves are? It's yet to be found! 
 I'll tell more about my results when I know them!!
 [![H0](./img/posterior-gw.png)](https://github.com/SabaEtezadRazavi/GWAstro)
+
+
+
 
 
 # Primoridoal Black Holes!
