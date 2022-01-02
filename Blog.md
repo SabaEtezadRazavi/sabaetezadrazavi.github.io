@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This is a Blog! 
-subtitle: -
+subtitle: 
 description: Writing for fun!
 show-avatar: false
 image: /img/blog.png
