@@ -45,7 +45,7 @@ When did the Helium in the IGM become Ionized? How long did it last for the univ
 Results ar ready and will become publicly available soon.
 [![My-Map](./img/IGM.png)]()
 
-# How fast is the universe's expansion accelerating (measurement of H0 value) ?!
+# How fast does the universe's expansion accelerating (measurement of H0 value) ?!
 
 It sounds insane, but this is actually a long-known important question for astronomers and cosmologists. Not only for itself but because it is a question from the fundamental laws of physics! Traditionally there had been two important measurements by the greatest cosmologists in the world to find the answer. Still, these measurements are in huge disagreement with each other (huge in terms of statistics!)! Something should be really wrong about at least one of them! How can we find which of these measurements is the correct one? A new independent way to measure this acceleration is needed! 
 I'm trying to answer the question of acceleration using the new window opened for us till LIGO by gravitational waves. It's not a new method. For instance, you can find more about the measurement of H0 value via novel gravitational wave methods by the LIGO/Virgo collaboration [here](https://arxiv.org/pdf/2111.03604.pdf).
@@ -55,7 +55,7 @@ I'll tell more about my results when I know them!!
 
 
 # Primoridoal Black Holes!
-YES! I love them! But have not done anything original on them! Yet! So I will just guide to a few of my most favourite review articles about "Primordial Black Holes as a candidate for Dark Matter".
+YES! I love them! But have not done anything original! Yet! So I will just guide to a few of my most favourite review articles about "Primordial Black Holes as a candidate for Dark Matter".
 
 * ["Primordial Black Holes as Dark Matter: Recent Developments" by Bernard Carr and Florian Kuhnel](https://arxiv.org/abs/2006.02838)
 * ["Primordial black holes—perspectives in gravitational wave astronomy" by Misao Sasaki et al.](https://inspirehep.net/literature/1648436)
