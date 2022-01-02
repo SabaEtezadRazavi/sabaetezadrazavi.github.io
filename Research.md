@@ -34,7 +34,7 @@ Here you will find some of my open-source projects. I will update this list over
 # Deep Learning large Scale Structure Formation
 
 Can we use complex deep learning mappings to gain physical insight into the super non-linear process of dark matter halo collapse? What will it tell us about the role of the initial condition of the universe in the number density of the halos in the current universe? In this work, we tried to answer these questions.  
-<p style="color:#00FA9A;"> Find the pre-print of this research [here](https://arxiv.org/abs/2112.14743).</p>
+## Find the pre-print of this research [here](https://arxiv.org/abs/2112.14743).
 
 [![My-Map](./img/deep.jpg)](https://github.com/Machine-Learning-in-Structure-formation/NLSFML)
 
@@ -42,6 +42,7 @@ Can we use complex deep learning mappings to gain physical insight into the supe
 # Constraining temperature fluctuations in the Inter-Galactic Medium (IGM)
 
 When did the Helium in the IGM become Ionized? How long did it last for the universe to reach equilibrium again after this re-ionization phase? What was the distribution of the HeII ionizing sources? Did they all turn on at the same time? We tried capsulated all these crucial questions about the IGM and the quasars (the most probable sources of HeII ionization) into one single question and tried to answer it. How did the temperature of the universe affected by this ionization process? Can we even observe the imprints of ionization on the IGM's temperature? 
+Results ar ready and will become publicly available soon.
 [![My-Map](./img/IGM.png)]()
 
 # How fast is the universe's expansion accelerating (measurement of H0 value) ?!
