@@ -26,7 +26,7 @@ tags: [sabaetezadrazavi]
 
 
 
-## *Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald*
+*Draw your chair up close to the edge of the percipice and I'll tell you a story. -Scott Fitzgerald*
 
 
 <h1 align="center"> <p style="color:orange;"> Tell me stories! </p> </h1>
