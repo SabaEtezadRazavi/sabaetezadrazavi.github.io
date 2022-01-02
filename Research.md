@@ -49,7 +49,7 @@ Results ar ready and will become publicly available soon.
 
 It sounds insane, but this is actually a long-known important question for astronomers and cosmologists. Not only for itself but because it is a question from the fundamental laws of physics! Traditionally there have been two important measurements by the best cosmologists in the world to find the answer. Still, these measurements are in huge disagreement with each other (huge in terms of statistics!)! Something should be really wrong about at least one of them! How can we find which of these measurements is the correct one? A new independent way to measure this expansion rate is needed! 
 I'm trying to answer the question of the Universe's expansion rate using the new window opened for us till LIGO by gravitational waves. It's not a new method. For instance, one can find more about the measurement of H0 value via novel methods using gravitational waves by the LIGO/Virgo collaboration [here](https://arxiv.org/pdf/2111.03604.pdf).
-What is new is how different assumptions about our universe (different cosmological models) can affect these methods? How robust these measuremtns with gravitational waves are? It's yet to be found! 
+What is new is how different assumptions about our universe (different cosmological models) can affect these methods? How robust these measurements with gravitational waves are? It's yet to be found! 
 I'll tell more about my results when I know them!!
 [![H0](./img/posterior-gw.png)](https://github.com/SabaEtezadRazavi/GWAstro)
 
