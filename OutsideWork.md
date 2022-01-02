@@ -20,7 +20,9 @@ tags: [sabaetezadrazavi]
 <h1 align="center"> <p style="color:#ff7f50;"> Woah! What a wonderful world! </p> </h1>
 
 
-<img src="https://github.com/SabaEtezadRazavi/sabaetezadrazavi.github.io/blob/master/My-Map/My-Map.pdf"
+## My ultimate goal is to put a flag on each and every spot on earth!
+
+<img src="https://github.com/SabaEtezadRazavi/sabaetezadrazavi.github.io/blob/master/My-Map/My-Map.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
