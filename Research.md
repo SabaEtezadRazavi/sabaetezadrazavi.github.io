@@ -34,7 +34,7 @@ Here you will find some of my open-source projects. I will update this list over
 # Deep Learning large Scale Structure Formation
 
 Can we use complex deep learning mappings to gain physical insight into the super non-linear process of dark matter halo collapse? What will it tell us about the role of the initial condition of the universe in the number density of the halos in the current universe? In this work, we tried to answer these questions.  
-## Find the pre-print of this research [here](https://arxiv.org/abs/2112.14743).
+### Find the pre-print of this research [here](https://arxiv.org/abs/2112.14743).
 
 [![My-Map](./img/deep.jpg)](https://github.com/Machine-Learning-in-Structure-formation/NLSFML)
 
