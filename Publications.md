@@ -9,8 +9,6 @@ tags: [sabaetezadrazavi]
 
 
 
-<style>{color:White;}</style>
- 
 <style>H1{color:White;}</style>
 <style>H2{color:White;}</style>
 <style>H3{color:White;}</style>
@@ -18,7 +16,14 @@ tags: [sabaetezadrazavi]
 
 
 
-* <h1 align="center"> Unraveling the role of cosmic velocity field in dark matter halo mass function using deep learning: (arXiv)[https://arxiv.org/abs/2112.14743] </h1>
+<h1 align="center"> <p style="color:orange;"> Alist of refereed and non-refereed papers </p> </h1>
+
+   
+
+
+
+
+* Unraveling the role of cosmic velocity field in dark matter halo mass function using deep learning: [arXiv](https://arxiv.org/abs/2112.14743) - Submmited to MNRAS
 
 
 
