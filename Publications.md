@@ -17,7 +17,8 @@ tags: [sabaetezadrazavi]
 <style>p{color:White;}</style>
 
 
-* <h1 align="center"> <p style="color:#ff7f50;"> Unraveling the role of cosmic velocity field in dark matter halo mass function using deep learning [arxiv](https://arxiv.org/abs/2112.14743)</p> </h1>
+
+* <h1 align="center"> Unraveling the role of cosmic velocity field in dark matter halo mass function using deep learning: (arXiv)[https://arxiv.org/abs/2112.14743] </h1>
 
 
 
