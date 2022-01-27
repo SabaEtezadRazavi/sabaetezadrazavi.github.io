@@ -16,7 +16,7 @@ tags: [sabaetezadrazavi]
 
 
 
-<h1 align="center"> <p style="color:orange;"> Alist of refereed and non-refereed papers </p> </h1>
+<h1 align="center"> <p style="color:orange;"> List of refereed and non-refereed papers </p> </h1>
 
    
 
