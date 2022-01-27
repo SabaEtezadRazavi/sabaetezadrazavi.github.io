@@ -23,6 +23,7 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   Home: "https://sabaetezadrazavi.github.io"
+  Publications: "Publications"
   Research: "Research"
   Outside Physics: "OutsideWork"
   Blog: "Blog"
