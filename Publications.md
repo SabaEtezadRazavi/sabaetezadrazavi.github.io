@@ -26,6 +26,7 @@ tags: [sabaetezadrazavi]
 
 1- Unraveling the role of cosmic velocity field in dark matter halo mass function using deep learning: [arXiv](https://arxiv.org/abs/2112.14743) - Submmited to MNRAS.
 
+[Saba Etezad-Razavi](https://orcid.org/0000-0001-7542-8915), Erfan Abbasgholinejad, Mohammad-Hadi Sotoudeh, Farbod Hassani, Sadegh Raeisi, Shant Baghram
 
 
 
