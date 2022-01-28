@@ -24,7 +24,7 @@ tags: [sabaetezadrazavi]
 
 
 
-* Unraveling the role of cosmic velocity field in dark matter halo mass function using deep learning: [arXiv](https://arxiv.org/abs/2112.14743) - Submmited to MNRAS
+* Unraveling the role of cosmic velocity field in dark matter halo mass function using deep learning: [arXiv](https://arxiv.org/abs/2112.14743) - Submmited to MNRAS.
 
 
 
