@@ -33,9 +33,9 @@ tags: [sabaetezadrazavi]
 
 1- February 2022 - Constraining IGM's temperature fluctuations between redshift 3 and 4 using XQ100: [SAZERAC- Learning the high-redshift universe](http://sazerac-conference.org/SIPS2122/3.html)
 
-2- October 2021 - Constraining Temprature fluctuations in the IGM [Galaxy Coffee Seminars](https://www2.mpia-hd.mpg.de/GC/GCwiki/) (MPIA - Heidelberg)
+2- October 2021 - Constraining Temprature fluctuations in the IGM: [Galaxy Coffee Seminars](https://www2.mpia-hd.mpg.de/GC/GCwiki/) (MPIA - Heidelberg)
 
-3- October 2021 - Constraining Temprature fluctuations in the IGM [Cosmo Seminars](http://physics.sharif.edu/~cosmology/) (SUT - Online)
+3- October 2021 - Constraining Temprature fluctuations in the IGM: [Cosmo Seminars](http://physics.sharif.edu/~cosmology/) (SUT - Online)
 
 4- October 2020 - Primordial Black Holes as a candidate for Dark Matter (SUT - Tehran)
 
