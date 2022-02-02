@@ -20,5 +20,5 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 
 I’m a 5th-year undergraduate physics student at [Sharif University of Technology](https://en.sharif.edu/)(SUT) currently wandering in Germany! I’m a research intern at the "Observational Relativity and Cosmology" group in [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/) - Hannover. I work on the mystery of the universe’s acceleration using the observed gravitational waves by the LIGO-Virgo collaboration. Previously I was a research intern at the High-z group in [Max Planck Institue for Astronomy](https://www.mpia.de/en) - Heidelberg, where I was investigating the IGM’s Helium re-ionization epoch. Ahead of that, I was a research assistant at SUT, working on deep learning dark matter structure formation.
 
-**Check out my public [CV](https://pdf.ac/sT0j5) to know more about my works [](here) (some links are disabled in this public version). If you want more information, just send me an [email](mailto:saba.etezad@physics.sharif.edu).**
+**Check out my public [CV](https://github.com/SabaEtezadRazavi/sabaetezadrazavi.github.io/raw/master/SabaEtezadRazavi_CV_web.pdf) to know more about my works (some links are disabled in this public version). If you want more information, just send me an [email](mailto:saba.etezad@physics.sharif.edu).**
 
