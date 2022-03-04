@@ -23,23 +23,23 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 
 ## Education
 
-- <p style="color:white;">BSc in Physics, 2017-2022 : [Sharif University of Technology](https://en.sharif.edu/) - GPA: 19.01/20 (A+)</p>
+- <p style="color:white;">BSc in Physics, 2017-2022 :</p> [Sharif University of Technology](https://en.sharif.edu/) <p style="color:white;">- GPA: 19.01/20 (A+)</p>
 
 
 
 ## Experience
 
-- [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/) - Division of "Observational Relativity and Cosmology" - Hannover - October 2021 to January 2022 - Research Intern - Supervisor: Dr. Sumit Kumar (Dr. Alexander Nitz group)
+- [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/) <p style="color:white;">- Division of "Observational Relativity and Cosmology" - Hannover - October 2021 to January 2022 - Research Intern - Supervisor: Dr. Sumit Kumar (Dr. Alexander Nitz group)</p>
 
 *Project: Understanding the accuracy and bias in the estimation of Hubble constant using binary black hole merger events and galaxy catalogs* - [Data: Gravitational wave data by LVK collaboration](https://indico.desy.de/event/28202/contributions/105590/attachments/67761/84535/EPS21_Lazzaro.pdf)
 
 
-- [Max Planck Institue for Astronomy](https://www.mpia.de/en) - High-z group, Division of "Cosmology and Galaxies" - Heidelberg - July 2021 to October 2021 - Research Intern - Supervisors: Dr. Sarah Bosman, Dr. Frederick Davies
+- [Max Planck Institue for Astronomy](https://www.mpia.de/en) <p style="color:white;">- High-z group, Division of "Cosmology and Galaxies" - Heidelberg - July 2021 to October 2021 - Research Intern - Supervisors: Dr. Sarah Bosman, Dr. Frederick Davies</p>
 
 *Project: Constraining temperature fluctuations in the IGM during the Helium reionization epoch* - [Data: XQ100 legacy survey by VLT's XShooter spectrograph](https://arxiv.org/abs/1607.08776)
 
 
-- [Sharif University of Technology](https://en.sharif.edu/) - Physics Department - Tehran - December 2020 to December 2021 - Research Assistant - Supervisors: Prof. Shant Baghram, Prof. Sadegh Raeisi 
+- [Sharif University of Technology](https://en.sharif.edu/) <p style="color:white;">- Physics Department - Tehran - December 2020 to December 2021 - Research Assistant - Supervisors: Prof. Shant Baghram, Prof. Sadegh Raeisi </p>
 
 *Project: Studying the large scale dark matter structure formation using deep learning methods* - [Data: gevolution simulation snapshots](https://arxiv.org/abs/1604.06065)
 
