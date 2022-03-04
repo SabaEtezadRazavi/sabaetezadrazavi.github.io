@@ -2,7 +2,7 @@
 layout: page
 title: Saba Etezad-Razavi
 subtitle: 
-description: Frankestein would want your mind!
+description: Frankenstein would want your mind!
 tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 ---
    
@@ -17,8 +17,21 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 
    
 ## About Me
-
-I’m a 5th-year undergraduate physics student at [Sharif University of Technology](https://en.sharif.edu/)(SUT) currently wandering in Germany! I’m a research intern at the "Observational Relativity and Cosmology" group in [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/) - Hannover. I work on the mystery of the universe’s acceleration using the observed gravitational waves by the LIGO-Virgo collaboration. Previously I was a research intern at the High-z group in [Max Planck Institue for Astronomy](https://www.mpia.de/en) - Heidelberg, where I was investigating the IGM’s Helium re-ionization epoch. Ahead of that, I was a research assistant at SUT, working on deep learning dark matter structure formation.
-
 **Check out my public [CV](https://github.com/SabaEtezadRazavi/sabaetezadrazavi.github.io/raw/master/SabaEtezadRazavi_CV_web.pdf) to know more about my works (some links are disabled in this public version). If you want more information, just send me an [email](mailto:saba.etezad@physics.sharif.edu).**
+
+## Education
+* BSc in Physics, 2017-2022 : [Sharif University of Technology](https://en.sharif.edu/) - GPA: 19.01/20 (A+)
+
+## Experience
+* [Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/) - Division of "Observational Relativity and Cosmology" - Hannover - October 2021 to January 2022 - Research Intern - Supervisor: Dr. Sumit Kumar (Dr. Alexander Nitz group)
+
+Project: Understanding the accuracy and bias in the estimation of Hubble constant using binary black hole merger events and galaxy catalogs - [Data: Gravitational wave data by LVK collaboration](https://indico.desy.de/event/28202/contributions/105590/attachments/67761/84535/EPS21_Lazzaro.pdf)
+
+* [Max Planck Institue for Astronomy](https://www.mpia.de/en) - High-z group, Division of "Cosmology and Galaxies" - Heidelberg - July 2021 to October 2021 - Research Intern - Supervisors: Dr. Sarah Bosman, Dr. Frederick Davies
+
+Project: Constraining temperature fluctuations in the IGM during the Helium reionization epoch - [Data: XQ100 legacy survey by VLT's XShooter spectrograph](https://arxiv.org/abs/1607.08776)
+
+* [Sharif University of Technology](https://en.sharif.edu/) - Physics Department - Tehran - December 2020 to December 2021 - Research Assistant - Supervisors: Prof. Shant Baghram, Prof. Sadegh Raeisi 
+
+Project: Studying the large scale dark matter structure formation using deep learning methods - [Data: gevolution simulation snapshots](https://arxiv.org/abs/1604.06065)
 
