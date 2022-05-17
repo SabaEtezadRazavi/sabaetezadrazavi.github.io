@@ -24,7 +24,7 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 ## Education
 
 - <p style="color:white;">BSc in Physics, 2017-2022 : GPA: 19.01/20 (A+)</p> [Sharif University of Technology](https://en.sharif.edu/)
-- <p style="color:white;">Next stop: Canada, Ontario, Waterloo - </p> [Perimeter Institute for theoretical physics](https://perimeterinstitute.ca/) <p style="color:white;">- PSI program starting from September 2022</p> 
+- <p style="color:white;">Next stop: Canada, Ontario, Waterloo </p> [Perimeter Institute for theoretical physics](https://perimeterinstitute.ca/) <p style="color:white;"> PSI program starting from September 2022 (MSc)</p> 
 
 
 
