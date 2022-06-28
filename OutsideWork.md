@@ -28,7 +28,7 @@ I love to explore new places and randomly walk or bike around cities to find ant
 [Sunset on Heidelberg castle.]()
 
 
-[![My-Map](./Pics/treasure-haunt.jpg)]()
+![Treasures](./Pics/treasure-haunt.jpg){width=250}
 The happy me in the haunt of old treasures in Tehran, Istanbul, Paris, Frankfurt and Hannover!
 
 I also extremely enjoy making lists of everything I like. I make thousands of playlists for the sound of all the places I've been walking in.
