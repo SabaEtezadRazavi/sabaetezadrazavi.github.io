@@ -37,14 +37,12 @@ On the freezing or scorching days (Which actually is quite common in Iranian sum
 I sometimes write short reviews in English and Persian on the books I read, which you can find on my Goodreads.
 Also, find my public playlists on my Spotify.
 
-<div style="width: 60%; height: 60%">
-  
- [![spotify](./Pics/spotify.png){width=250}](https://open.spotify.com/user/s_etezad?si=5d5f69efe6af4438)
-  
+<div style="width: 10%; height: 10%">
+ [![spotify](./Pics/spotify.png)](https://open.spotify.com/user/s_etezad?si=5d5f69efe6af4438)
 </div>
 
 
-[![goodreads](./Pics/Goodreads.png){:height="36px" width="36px"}](https://www.goodreads.com/user/show/151073804-saba-etezad-razavi)
+[![goodreads](./Pics/Goodreads.png)](https://www.goodreads.com/user/show/151073804-saba-etezad-razavi)
 
 
 Besides, I quite enjoy debating all the life questions over a cup of coffee or tea or on a long hike! So reach me out if you like to chat ;)
