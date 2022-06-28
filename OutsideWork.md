@@ -26,7 +26,9 @@ I love to explore new places and randomly walk or bike around cities to find ant
 
 
 ![Treasures](./Pics/treasure-haunt.jpg)
-The happy me in the haunt of old treasures in Tehran, Istanbul, Paris, Frankfurt and Hannover!
+<h1 align="center"> The happy me in the haunt of old treasures in Tehran, Istanbul, Paris, Frankfurt and Hannover! </h1>
+
+
 
 I also extremely enjoy making lists of everything I like. I make thousands of playlists for the sound of all the places I've been walking in.
 On the freezing or scorching days (Which actually is quite common in Iranian summers), I like to sit inside with good music and a good book or a poet and an occasional (non-alcoholic) drink or start a random in-door hobby. So far, I have tried playing piano, painting, Vitra (glass painting), yoga, embroidery, and making salty cookies. (Let me just point out that I'm not a professional or even good in any of these:-") 
@@ -71,19 +73,23 @@ Besides, I quite enjoy debating all the life questions over a cup of coffee or t
 
 
 [![My-Map](./Pics/konigstuhl.jpg)]()
-Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests!
+<h1 align="center"> Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests! </h1>
+
 
 
 [![My-Map](./Pics/istanbul.jpg)]()
-Another long night of talking about everything and nothing till the sun rises with my friend Sahar =))
+<h1 align="center"> Another long night of talking about everything and nothing till the sun rises with my friend Sahar =)) </h1>
+
 
 
 [![My-Map](./Pics/domenica.jpg)]()
-This is my friend Domenica on a hot afternoon in Luxembourg while talking about the problems of capitalism for over 5 hours in a Luxembourgian cafe. 
+<h1 align="center"> This is my friend Domenica on a hot afternoon in Luxembourg while talking about the problems of capitalism for over 5 hours in a Luxembourgian cafe.  </h1>
+
 
 
 [![My-Map](./Pics/dorm.jpg)]()
-One of the most memorable nights of my university, reading poems outside the dormitory building.
+<h1 align="center"> One of the most memorable nights of my university, reading poems outside the dormitory building. </h1>
+
 
 
 
