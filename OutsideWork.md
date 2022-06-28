@@ -25,10 +25,7 @@ I explore the sky while working, and in my spare time, I search for what is left
 I love to explore new places and randomly walk or bike around cities to find antique bookstores, random treasures in old forgotten stores, or a beautiful silent spot to sit and read and watch the sunset. 
 
 
-[Sunset on Heidelberg castle.]()
-
-
-![Treasures](./Pics/treasure-haunt.jpg){width=250}
+![Treasures](./Pics/treasure-haunt.jpg)
 The happy me in the haunt of old treasures in Tehran, Istanbul, Paris, Frankfurt and Hannover!
 
 I also extremely enjoy making lists of everything I like. I make thousands of playlists for the sound of all the places I've been walking in.
@@ -44,12 +41,13 @@ Also, find my public playlists on my Spotify.
 </div>
 
 
-[![goodreads](./Pics/Goodreads.png)](https://www.goodreads.com/user/show/151073804-saba-etezad-razavi)
+[<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>](https://www.goodreads.com/user/show/151073804-saba-etezad-razavi)
+
 
 
 Besides, I quite enjoy debating all the life questions over a cup of coffee or tea or on a long hike! So reach me out if you like to chat ;)
 
-*Check out my lists ;)*
+## My lists ;)
 
 1- [Come and get lost with me in ...]()
 
@@ -62,20 +60,27 @@ Besides, I quite enjoy debating all the life questions over a cup of coffee or t
 5- ...
 
 
-*Also, check Out my World's map!*
+## check Out my World's map!
 [![My-Map](./My-Map/My-Map.jpg)]()
 
 
 # Album
 
+[Sunset on Heidelberg castle.]()
+
+
+
 [![My-Map](./Pics/konigstuhl.jpg)]()
 Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests!
+
 
 [![My-Map](./Pics/istanbul.jpg)]()
 Another long night of talking about everything and nothing till the sun rises with my friend Sahar =))
 
+
 [![My-Map](./Pics/domenica.jpg)]()
 This is my friend Domenica on a hot afternoon in Luxembourg while talking about the problems of capitalism for over 5 hours in a Luxembourgian cafe. 
+
 
 [![My-Map](./Pics/dorm.jpg)]()
 One of the most memorable nights of my university, reading poems outside the dormitory building.
