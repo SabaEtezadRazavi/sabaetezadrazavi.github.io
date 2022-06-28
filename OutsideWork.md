@@ -38,7 +38,9 @@ I sometimes write short reviews in English and Persian on the books I read, whic
 Also, find my public playlists on my Spotify.
 
 <div style="width: 10%; height: 10%">
+ 
  [![spotify](./Pics/spotify.png)](https://open.spotify.com/user/s_etezad?si=5d5f69efe6af4438)
+ 
 </div>
 
 
