@@ -56,7 +56,7 @@ Besides, I quite enjoy debating all the life questions over a cup of coffee or t
 
 
 ## check Out my World's map!
-[![My-Map](./My-Map/My-Map.jpg)]()
+![My-Map](./My-Map/My-Map.jpg)
 
 
 # Album
@@ -67,19 +67,19 @@ Besides, I quite enjoy debating all the life questions over a cup of coffee or t
 
 
 
-[![My-Map](./Pics/konigstuhl.jpg)]()
+![My-Map](./Pics/konigstuhl.jpg)
 <p align="center"> Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests! </p>
 
 
 
 
-[![My-Map](./Pics/istanbul.jpg)]()
+![My-Map](./Pics/istanbul.jpg)
 <p align="center"> Another long night of talking about everything and nothing till the sun rises with my friend Sahar =)) </p>
 
 
 
 
-[![My-Map](./Pics/domenica.jpg)]()
+![My-Map](./Pics/domenica.jpg)
 <p align="center"> This is my friend Domenica on a hot afternoon in Luxembourg while talking about the problems of capitalism for over 5 hours in a Luxembourgian cafe.  </p>
 
 
