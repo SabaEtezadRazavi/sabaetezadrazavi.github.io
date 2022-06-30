@@ -65,13 +65,17 @@ Besides, I quite enjoy debating all the life questions over a cup of coffee or t
 
 
 
+
+
 [![My-Map](./Pics/konigstuhl.jpg)]()
 <p align="center"> Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests! </p>
 
 
 
+
 [![My-Map](./Pics/istanbul.jpg)]()
 <p align="center"> Another long night of talking about everything and nothing till the sun rises with my friend Sahar =)) </p>
+
 
 
 
