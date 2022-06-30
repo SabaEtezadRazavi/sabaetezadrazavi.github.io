@@ -24,8 +24,8 @@ I explore the sky while working, and in my spare time, I search for what is left
 
 I love to explore new places and randomly walk or bike around cities to find antique bookstores, random treasures in old forgotten stores, or a beautiful silent spot to sit and read and watch the sunset. 
 
-<img src="../Pics/treasure-haunt.jpg" height="80px">
-<h1 align="center"> The happy me in the haunt of old treasures in Tehran, Istanbul, Paris, Frankfurt and Hannover! </h1>
+<img src="../Pics/treasure-haunt.jpg" height="400px">
+<p align="center"> The happy me in the haunt of old treasures in Tehran, Istanbul, Paris, Frankfurt and Hannover! </p>
 
 
 
@@ -36,8 +36,7 @@ I sometimes write short reviews in English and Persian on the books I read, whic
 Also, find my public playlists on my Spotify.
 
 
-[<img src="../Pics/spotify.png" height="60px">](https://open.spotify.com/user/s_etezad?si=5d5f69efe6af4438) Spotify,  [<img src="../Pics/Goodreads.png" height="60px">](https://www.goodreads.com/user/show/151073804-saba-etezad-razavi) Goodreads (Click on the icons) 
-
+[<img src="../Pics/spotify.png" height="60px">](https://open.spotify.com/user/s_etezad?si=5d5f69efe6af4438) Spotify,            [<img src="../Pics/Goodreads.png" height="60px">](https://www.goodreads.com/user/show/151073804-saba-etezad-razavi) Goodreads (Click on the icons) 
 
 
 
@@ -67,22 +66,22 @@ Besides, I quite enjoy debating all the life questions over a cup of coffee or t
 
 
 [![My-Map](./Pics/konigstuhl.jpg)]()
-<h1 align="center"> Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests! </h1>
+Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests!
 
 
 
 [![My-Map](./Pics/istanbul.jpg)]()
-<h1 align="center"> Another long night of talking about everything and nothing till the sun rises with my friend Sahar =)) </h1>
+Another long night of talking about everything and nothing till the sun rises with my friend Sahar =))
 
 
 
 [![My-Map](./Pics/domenica.jpg)]()
-<h1 align="center"> This is my friend Domenica on a hot afternoon in Luxembourg while talking about the problems of capitalism for over 5 hours in a Luxembourgian cafe.  </h1>
+<p align="center"> This is my friend Domenica on a hot afternoon in Luxembourg while talking about the problems of capitalism for over 5 hours in a Luxembourgian cafe.  </p>
 
 
 
 [![My-Map](./Pics/dorm.jpg)]()
-<h1 align="center"> One of the most memorable nights of my university, reading poems outside the dormitory building. </h1>
+<p align="center"> One of the most memorable nights of my university, reading poems outside the dormitory building. </p>
 
 
 
