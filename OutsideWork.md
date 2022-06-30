@@ -24,7 +24,7 @@ I explore the sky while working, and in my spare time, I search for what is left
 
 I love to explore new places and randomly walk or bike around cities to find antique bookstores, random treasures in old forgotten stores, or a beautiful silent spot to sit and read and watch the sunset. 
 
-<img src="../Pics/treasure-haunt.jpg" height="400px">
+<p align="center"> <img src="../Pics/treasure-haunt.jpg" height="400px"> </p>
 <p align="center"> The happy me in the haunt of old treasures in Tehran, Istanbul, Paris, Frankfurt and Hannover! </p>
 
 
