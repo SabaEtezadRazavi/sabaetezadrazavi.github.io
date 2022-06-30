@@ -20,6 +20,8 @@ tags: [sabaetezadrazavi]
 <h1 align="center"> <p style="color:#ff7f50;"> Woah! What a wonderful world! </p> </h1>
 
 
+## <img src="../Pics/treasure-haunt.jpg" height="50px"> News
+
 I explore the sky while working, and in my spare time, I search for what is left undiscovered for me from feelings and experiences on the Earth!
 
 I love to explore new places and randomly walk or bike around cities to find antique bookstores, random treasures in old forgotten stores, or a beautiful silent spot to sit and read and watch the sunset. 
