@@ -66,12 +66,12 @@ Besides, I quite enjoy debating all the life questions over a cup of coffee or t
 
 
 [![My-Map](./Pics/konigstuhl.jpg)]()
-Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests!
+<p align="center"> Me in the middle of a breathtaking argument with another friend on "What does it mean to love your country?" while walking in Konigstuhl forests! </p>
 
 
 
 [![My-Map](./Pics/istanbul.jpg)]()
-Another long night of talking about everything and nothing till the sun rises with my friend Sahar =))
+<p align="center"> Another long night of talking about everything and nothing till the sun rises with my friend Sahar =)) </p>
 
 
 
@@ -80,8 +80,6 @@ Another long night of talking about everything and nothing till the sun rises wi
 
 
 
-[![My-Map](./Pics/dorm.jpg)]()
-<p align="center"> One of the most memorable nights of my university, reading poems outside the dormitory building. </p>
 
 
 
