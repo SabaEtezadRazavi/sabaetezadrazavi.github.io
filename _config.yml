@@ -25,6 +25,7 @@ navbar-links:
   Home: "https://sabaetezadrazavi.github.io"
   Publications: "Publications"
   Research: "Research"
+  Articles: "Articles"
   Outside Physics: "OutsideWork"
   Blog: "Blog"
   Outreach: "Outreach"
@@ -55,9 +56,9 @@ footer-link-col: "#FF4500"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-page-img: "/img/bkimage.png"
+navbar-img: "/img/bgimage.png"
+footer-img: "/img/bgimage.png"
+#page-img: "/img/bkimage.png"
 
 # --- Footer options --- #
 
