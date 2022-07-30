@@ -25,7 +25,7 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 
 
 <ol>
-  <li>[Sharif University of Technology](https://en.sharif.edu/), BSc in Physics, 2017-2022 : GPA: 19.01/20 (A+) </li>
+  <li>[Sharif University of Technology](https://en.sharif.edu/), BSc in Physics, 2017-2022 </li>
   <li>[Perimeter Institute for theoretical physics](https://perimeterinstitute.ca/), Next stop: Canada, Ontario, Waterloo - PSI program, from September 2022 to June 2023 (MSc)</li>
 </ol>
 
@@ -33,7 +33,7 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 ## Experience
 
 <ol>
-  <li>[Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/) 
+  <li> **[Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)** 
 <p style="color:black;"> Research Intern - Division of "Observational Relativity and Cosmology" - Hannover - October 2021 to January 2022 - Supervisor: Dr. Sumit Kumar (Dr. Alexander Nitz group)</p>
    *Project: Understanding the accuracy and bias in the estimation of Hubble constant using binary black hole merger events and galaxy catalogs* - [Data: Gravitational wave data by LVK collaboration](https://indico.desy.de/event/28202/contributions/105590/attachments/67761/84535/EPS21_Lazzaro.pdf)
    </li>
