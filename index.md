@@ -25,7 +25,7 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 
 - **[Sharif University of Technology](https://en.sharif.edu/)**, Iran - Tehran, BSc in Physics, 2017-2022
 
-- **[Perimeter Institute for theoretical physics](https://perimeterinstitute.ca/)**, Canada (Ontario) - Waterloo - PSI program, Msc in Theoretical Physics, September 2022 to June 2023
+- **[Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/)**, Canada (Ontario) - Waterloo - PSI program, Msc in Theoretical Physics, September 2022 to June 2023
 
 
 ## Experience
