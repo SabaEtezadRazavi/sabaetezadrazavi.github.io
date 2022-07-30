@@ -9,12 +9,12 @@ tags: [sabaetezadrazavi]
 
 
 
-<style>{color:White;}</style>
+<style>{color:black;}</style>
  
-<style>H1{color:White;}</style>
-<style>H2{color:White;}</style>
-<style>H3{color:White;}</style>
-<style>p{color:White;}</style>
+<style>H1{color:black;}</style>
+<style>H2{color:black;}</style>
+<style>H3{color:black;}</style>
+<style>p{color:black;}</style>
 
 
 <h1 align="center"> <p style="color:#ff7f50;"> Woah! What a wonderful world! </p> </h1>
@@ -89,7 +89,7 @@ Besides, I quite enjoy debating all the life questions over a cup of coffee or t
 
 
 
-<h1 align="center"> <p style="color:silver;"> Ultimate goal: Yet to be found! </p> </h1>
+<h1 align="center"> <p style="color:orange;"> Ultimate goal: Yet to be found! </p> </h1>
 
 
 
