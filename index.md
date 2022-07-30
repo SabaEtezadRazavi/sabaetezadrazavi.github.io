@@ -6,10 +6,10 @@ description: Frankenstein would want your mind!
 tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 ---
    
-<style>H1{color:Brown;}</style>
-<style>H2{color:Brown;}</style>
-<style>H3{color:Brown;}</style>
-<style>p{color:Brown;}</style>
+<style>H1{color:Black;}</style>
+<style>H2{color:Black;}</style>
+<style>H3{color:Black;}</style>
+<style>p{color:Black;}</style>
 
 
 
