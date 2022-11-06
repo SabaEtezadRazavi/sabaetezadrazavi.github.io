@@ -17,7 +17,7 @@ tags: [sabaetezadrazavi,cosmology,astrophysics,machinelearning]
 
    
 ## About Me
-**Check out my public [CV](https://github.com/SabaEtezadRazavi/sabaetezadrazavi.github.io/raw/master/C-recent.pdf) to know more about my works (some links are disabled in this public version). If you want more information, just send me an [email](mailto:setezadrazavi@perimeterinstitute.ca).**
+**Check out my public [CV](https://github.com/SabaEtezadRazavi/sabaetezadrazavi.github.io/blob/master/CV-recent.pdf) to know more about my works (some links are disabled in this public version). If you want more information, just send me an [email](mailto:setezadrazavi@perimeterinstitute.ca).**
 
 
 
