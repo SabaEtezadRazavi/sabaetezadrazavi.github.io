@@ -28,7 +28,7 @@ This is an exciting time for Quantum Gravity. After decades of pure theoretical 
 
 ## Education
 
-- **[The University of Chicago](https://astrophysics.uchicago.edu/)**, United States (Ilinois) - Chicago - Ph.D. in Astronomy and Astrophysics, September 2023 -
+- **[The University of Chicago](https://astrophysics.uchicago.edu/)**, United States (Ilinois) - Chicago - Ph.D. in Astronomy and Astrophysics, September 2023 to ?
 
 - **[Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/)**, Canada (Ontario) - Waterloo - PSI program, MSc in Theoretical Physics, September 2022 to June 2023
 
