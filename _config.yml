@@ -1,8 +1,5 @@
 # --- General options --- #
 
-theme: hitchens-theme
-
-
 # Name of website
 title: Saba Etezad-Razavi's personal homepage
 
@@ -34,24 +31,24 @@ navbar-links:
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar.jpg"
+#avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: /img/avatar.jpg
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#404040" #"#FFFFFF"
-navbar-text-col: "#c0c0c0"
-navbar-children-col: "#c0c0c0"
-text-col: "#c0c0c0"
-page-col: "#c0c0c0" #"#FFFFFF"
+navbar-col: "#031D48" #"#FFFFFF"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#FFFFFF"
+text-col: "#FFFFFF"
+page-col: "#031D48" #"#FFFFFF"
 link-col: "#FF4500" #"#008AFF"
 hover-col: "#c0c0c0" #"#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#031D48"
 footer-text-col: "#404040"
 footer-link-col: "#FF4500"
 
