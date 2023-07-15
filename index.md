@@ -3,13 +3,13 @@ layout: page
 title: Saba Etezad-Razavi
 subtitle: 
 description: Frankenstein would want your mind!
-tags: [sabaetezadrazavi,cosmology,astrophysics,quantumgravity,machinelearning]
+tags: [sabaetezadrazavi,cosmology,astrophysics,quantumgravity,machinelearning,quantumfoundations]
 ---
    
-<style>H1{color:Black;}</style>
-<style>H2{color:Black;}</style>
-<style>H3{color:Black;}</style>
-<style>p{color:Black;}</style>
+<style>H1{color:White;}</style>
+<style>H2{color:White;}</style>
+<style>H3{color:White;}</style>
+<style>p{color:White;}</style>
 
 
 
@@ -28,7 +28,7 @@ This is an exciting time for Quantum Gravity. After decades of pure theoretical 
 
 ## Education
 
-- **[The University of Chicago](https://astrophysics.uchicago.edu/)**, United States (Ilinois) - Chicago - Ph.D. in Astronomy and Astrophysics, September 2023 to ?
+- **[The University of Chicago](https://astrophysics.uchicago.edu/)**, United States (Illinois) - Chicago - Ph.D. in Astronomy and Astrophysics, Starting September 2023 
 
 - **[Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/)**, Canada (Ontario) - Waterloo - PSI program, MSc in Theoretical Physics, September 2022 to June 2023
 
