@@ -20,10 +20,10 @@ tags: [sabaetezadrazavi]
 <h1 align="center"> <p style="color:orange;"> Journal papers: </p> </h1>
 
    
-2- Paradox with Phase Coupled Interferometers: [arXiv]() 
+2- Paradox with Phase Coupled Interferometers: [arXiv](https://arxiv.org/abs/2305.14241),
 [Saba Etezad-Razavi](https://orcid.org/0000-0001-7542-8915), Lucien Hardy
 
-1- Unraveling the role of the cosmic velocity field in dark matter halo mass function using deep learning: [arXiv](https://arxiv.org/abs/2112.14743)
+1- Unraveling the role of the cosmic velocity field in dark matter halo mass function using deep learning: [arXiv](https://arxiv.org/abs/2112.14743), 
 [Saba Etezad-Razavi](https://orcid.org/0000-0001-7542-8915), Erfan Abbasgholinejad, Mohammad-Hadi Sotoudeh, Farbod Hassani, Sadegh Raeisi, Shant Baghram
 
 
