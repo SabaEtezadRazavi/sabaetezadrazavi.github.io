@@ -29,7 +29,7 @@ tags: [sabaetezadrazavi]
 
 <h1 align="center"> <p style="color:orange;"> Thesis: </p> </h1>
 
-2- Master Thesis - Gravity-Mediated Entanglement: an operational perspective - PSI - [Link]()
+2- Master Thesis - Gravity-Mediated Entanglement: an operational perspective - PSI - [Thesis](https://drive.google.com/file/d/1INS5vYLbau4n2yRk1p7tj2mG9bXZw_D2/view?usp=sharing), [Slides](https://drive.google.com/file/d/1dNzHa9Cm5iZc_LqhIMH8_mMAhV2fhhzc/view?usp=sharing)
 
 1- Bachelor Thesis - Machine learning in large-scale structure formation - SUT  - [Link]()
 
@@ -49,16 +49,16 @@ tags: [sabaetezadrazavi]
 
 <h1 align="center"> <p style="color:orange;"> General Articles: </p> </h1>
 
-2- Scientific realism in history: Traces of Realism-Instrumentalism debates before the 15th Century - [Link]()
+2- Scientific realism in history: Traces of Realism-Instrumentalism debates before the 15th Century - [Link](https://docs.google.com/document/d/1ZhkaS0UaXGLXVZG6onUmAAep1eP72Cid/edit?usp=sharing&ouid=107307546049479376372&rtpof=true&sd=true)
 
-1- One cannot be just a little bit realist: A note on the journey of Putnam and Van Frassen into scientific realism - [Link]()
+1- One cannot be just a little bit realist: A note on the journey of Putnam and Van Frassen into scientific realism - [Link](https://docs.google.com/document/d/1kit9QH-gS0_EXK2YhMU88lRN3fs6241v/edit?usp=sharing&ouid=107307546049479376372&rtpof=true&sd=true)
 
 
 <h1 align="center"> <p style="color:orange;"> Articles in Persian: </p> </h1>
 
 3- On the shoulder of giants: how JWST will help us to complete the cosmic puzzle - Article for Shabahang trade magazine - No 19 - [Link]()
 
-2- Primordial Black Holes as a candidate for the Dark Matter: A review - [Link]()
+2- Primordial Black Holes as a candidate for the Dark Matter: A review - [Link](https://drive.google.com/file/d/11icV0AeNbdv6Em0-goNTvX-j3kfPG1Qz/view?usp=sharing)
 
 1- From particles to blackholes - Interview adopted for Shabahang trade magazine (SUT) - No 11 - [Link](https://spssa.ir/wp-content/uploads/2021/11/11.pdf)
 
