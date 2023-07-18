@@ -37,8 +37,8 @@ This is an exciting time for Quantum Gravity. After decades of pure theoretical 
 
 ## Interests
 
-- Phenomenological Quantum Gravity (PQG)
-- Early Universe Quantum Cosmology and Emergence of Classicality 
-- Operational tools for Quantum Gravity
-- Multi-messenger astronomy, particularly to answer questions in fundamental physics
-- There was a time that I was interested in Machine Learning for Cosmology :))
+- <p style="color:white;"> Phenomenological Quantum Gravity (PQG) </p>
+- <p style="color:white;"> Early Universe Quantum Cosmology and Emergence of Classicality </p>
+- <p style="color:white;"> Operational tools for Quantum Gravity </p>
+- <p style="color:white;"> Multi-messenger astronomy, particularly to answer questions in fundamental physics </p>
+- <p style="color:white;"> There was a time that I was interested in Machine Learning for Cosmology :)) </p>
