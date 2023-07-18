@@ -31,8 +31,23 @@ This is an exciting time for Quantum Gravity. After decades of pure theoretical 
 - **[The University of Chicago](https://astrophysics.uchicago.edu/)**, United States (Illinois) - Chicago - Ph.D. in Astronomy and Astrophysics, Starting September 2023 
 
 - **[Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/)** and **[University of Waterloo](https://uwaterloo.ca/)**, Canada (Ontario) - Waterloo - PSI program, MSc in Theoretical Physics, September 2022 to June 2023
-
+**Master Thesis subject: Gravity-Mediated Entanglement: an operational perspective", Supervised by Lucien Hardy.**
 - **[Sharif University of Technology](https://en.sharif.edu/)**, Iran - Tehran, BSc in Physics, 2017-2022
+
+
+
+# Experience
+
+- **[Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)**   
+    Research Intern - Division of "Observational Relativity and Cosmology" - Germany, Hannover - October 2021 to January 2022 - Supervisor: Sumit Kumar (Alexander Nitz group)  
+    *Project: Understanding the accuracy and bias in the estimation of Hubble constant using binary black hole merger events and galaxy catalogs* - [Data: Gravitational wave data by LVK collaboration](https://indico.desy.de/event/28202/contributions/105590/attachments/67761/84535/EPS21_Lazzaro.pdf)
+- **[Max Planck Institue for Astronomy](https://www.mpia.de/en)**  
+    Research Intern - High-z group, Division of "Cosmology and Galaxies" - Germany, Heidelberg - July 2021 to October 2021 - Supervisors: Sarah Bosman, Frederick Davies  
+    *Project: Constraining temperature fluctuations in the IGM during the Helium reionization epoch* - [Data: XQ100 legacy survey by VLT's XShooter spectrograph](https://arxiv.org/abs/1607.08776)
+- **[Sharif University of Technology](https://en.sharif.edu/)**  
+    Research Assistant - Physics Department - Iran, Tehran - December 2020 to December 2021 - Supervisors: Shant Baghram, Sadegh Raeisi  
+    *Project: Studying the large scale dark matter structure formation using deep learning methods* - [Data: gevolution simulation snapshots](https://arxiv.org/abs/1604.06065)
+
 
 
 ## Interests
