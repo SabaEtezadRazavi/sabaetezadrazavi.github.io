@@ -17,7 +17,7 @@ tags: [sabaetezadrazavi]
 
 
 
-<h1 align="center"> <p style="color:orange;"> Journal papers: </p> </h1>
+<p style="color:orange;"> Journal papers: </p>
 
    
 2- Paradox with Phase Coupled Interferometers: [arXiv](https://arxiv.org/abs/2305.14241),
@@ -27,14 +27,14 @@ tags: [sabaetezadrazavi]
 [Saba Etezad-Razavi](https://orcid.org/0000-0001-7542-8915), Erfan Abbasgholinejad, Mohammad-Hadi Sotoudeh, Farbod Hassani, Sadegh Raeisi, Shant Baghram
 
 
-<h1 align="center"> <p style="color:orange;"> Thesis: </p> </h1>
+<p style="color:orange;"> Thesis: </p> 
 
 2- Master Thesis - Gravity-Mediated Entanglement: an operational perspective - PSI - [Thesis](https://drive.google.com/file/d/1INS5vYLbau4n2yRk1p7tj2mG9bXZw_D2/view?usp=sharing), [Slides](https://drive.google.com/file/d/1dNzHa9Cm5iZc_LqhIMH8_mMAhV2fhhzc/view?usp=sharing)
 
 1- Bachelor Thesis - Machine learning in large-scale structure formation - SUT  - [Link]()
 
 
-<h1 align="center"> <p style="color:orange;"> Talks and conferences: </p> </h1>
+<p style="color:orange;"> Talks and conferences: </p>
 
 5- June 2022 - Unraveling the role of the cosmic velocity field in dark matter halo mass function using deep learning: [Paris Workshop on Bayesian Deep Learning for Cosmology and Time Domain Astrophysics](https://indico.in2p3.fr/event/26887/contributions/111747/) (Université Paris Cité - Paris)
 
@@ -47,14 +47,14 @@ tags: [sabaetezadrazavi]
 1- October 2020 - Primordial Black Holes as a candidate for Dark Matter (SUT - Tehran)
 
 
-<h1 align="center"> <p style="color:orange;"> General Articles: </p> </h1>
+<p style="color:orange;"> Non-physics Articles: </p>
 
 2- Scientific realism in history: Traces of Realism-Instrumentalism debates before the 15th Century - [Link](https://docs.google.com/document/d/1ZhkaS0UaXGLXVZG6onUmAAep1eP72Cid/edit?usp=sharing&ouid=107307546049479376372&rtpof=true&sd=true)
 
 1- One cannot be just a little bit realist: A note on the journey of Putnam and Van Frassen into scientific realism - [Link](https://docs.google.com/document/d/1kit9QH-gS0_EXK2YhMU88lRN3fs6241v/edit?usp=sharing&ouid=107307546049479376372&rtpof=true&sd=true)
 
 
-<h1 align="center"> <p style="color:orange;"> Articles in Persian: </p> </h1>
+<p style="color:orange;"> Articles in Persian: </p>
 
 3- On the shoulder of giants: how JWST will help us to complete the cosmic puzzle - Article for Shabahang trade magazine - No 19 - [Link]()
 
