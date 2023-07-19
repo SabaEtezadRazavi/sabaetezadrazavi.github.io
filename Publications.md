@@ -16,8 +16,7 @@ tags: [sabaetezadrazavi]
 <style>p{color:White;}</style>
 
 
-
-## <p style="color:orange;"> Journal papers </p>
+## <span style="color:orange"> Journal papers </span>
 
    
 2- Paradox with Phase Coupled Interferometers: [arXiv](https://arxiv.org/abs/2305.14241),
