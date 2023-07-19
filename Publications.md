@@ -26,14 +26,14 @@ tags: [sabaetezadrazavi]
 [Saba Etezad-Razavi](https://orcid.org/0000-0001-7542-8915), Erfan Abbasgholinejad, Mohammad-Hadi Sotoudeh, Farbod Hassani, Sadegh Raeisi, Shant Baghram
 
 
-## <p style="color:orange;"> Thesis </p> 
+## <span style="color:orange"> Thesis </span> 
 
 2- Master Thesis - Gravity-Mediated Entanglement: an operational perspective - PSI - [Thesis](https://drive.google.com/file/d/1INS5vYLbau4n2yRk1p7tj2mG9bXZw_D2/view?usp=sharing), [Slides](https://drive.google.com/file/d/1dNzHa9Cm5iZc_LqhIMH8_mMAhV2fhhzc/view?usp=sharing)
 
 1- Bachelor Thesis - Machine learning in large-scale structure formation - SUT  - [Link]()
 
 
-## <p style="color:orange;"> Talks and conferences </p>
+## <span style="color:orange"> Talks and conferences </span>
 
 5- June 2022 - Unraveling the role of the cosmic velocity field in dark matter halo mass function using deep learning: [Paris Workshop on Bayesian Deep Learning for Cosmology and Time Domain Astrophysics](https://indico.in2p3.fr/event/26887/contributions/111747/) (Université Paris Cité - Paris)
 
@@ -46,19 +46,19 @@ tags: [sabaetezadrazavi]
 1- October 2020 - Primordial Black Holes as a candidate for Dark Matter (SUT - Tehran)
 
 
-## <p style="color:orange;"> Non-physics Articles </p>
+## <span style="color:orange"> Non-physics Articles </span>
 
-2- Scientific realism in history: Traces of Realism-Instrumentalism debates before the 15th Century - [Link](https://docs.google.com/document/d/1ZhkaS0UaXGLXVZG6onUmAAep1eP72Cid/edit?usp=sharing&ouid=107307546049479376372&rtpof=true&sd=true)
+2- Scientific realism in history (2021): Traces of Realism-Instrumentalism debates before the 15th Century - [Link](https://docs.google.com/document/d/1ZhkaS0UaXGLXVZG6onUmAAep1eP72Cid/edit?usp=sharing&ouid=107307546049479376372&rtpof=true&sd=true)
 
-1- One cannot be just a little bit realist: A note on the journey of Putnam and Van Frassen into scientific realism - [Link](https://docs.google.com/document/d/1kit9QH-gS0_EXK2YhMU88lRN3fs6241v/edit?usp=sharing&ouid=107307546049479376372&rtpof=true&sd=true)
+1- One cannot be just a little bit realist (2017): A note on the journey of Putnam and Van Frassen into scientific realism - [Link](https://docs.google.com/document/d/1kit9QH-gS0_EXK2YhMU88lRN3fs6241v/edit?usp=sharing&ouid=107307546049479376372&rtpof=true&sd=true)
 
 
-## <p style="color:orange;"> Articles in Persian </p>
+## <span style="color:orange"> Articles in Persian </span>
 
-3- On the shoulder of giants: how JWST will help us to complete the cosmic puzzle - Article for Shabahang trade magazine - No 19 - [Link]()
+3- On the shoulder of giants: how JWST will help us to complete the cosmic puzzle (2022)- Article for Shabahang trade magazine - No 19 - [Link]()
 
-2- Primordial Black Holes as a candidate for the Dark Matter: A review - [Link](https://drive.google.com/file/d/11icV0AeNbdv6Em0-goNTvX-j3kfPG1Qz/view?usp=sharing)
+2- Primordial Black Holes as a candidate for the Dark Matter: A review (2020)- [Link](https://drive.google.com/file/d/11icV0AeNbdv6Em0-goNTvX-j3kfPG1Qz/view?usp=sharing)
 
-1- From particles to blackholes - Interview adopted for Shabahang trade magazine (SUT) - No 11 - [Link](https://spssa.ir/wp-content/uploads/2021/11/11.pdf)
+1- From particles to blackholes (2018)- Interview adopted for Shabahang trade magazine (SUT) - No 11 - [Link](https://spssa.ir/wp-content/uploads/2021/11/11.pdf)
 
 
