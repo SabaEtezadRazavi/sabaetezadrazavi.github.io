@@ -38,13 +38,13 @@ This is an exciting time for Quantum Gravity. After decades of pure theoretical 
 # Experience
 
 - **[Max Planck Institute for Gravitational Physics](https://www.aei.mpg.de/)**
- <span style="color:white"> , Research Intern - Division of "Observational Relativity and Cosmology" - Germany, Hannover - October 2021 to January 2022 - Supervisor: Sumit Kumar (Alexander Nitz group)  
+ <span style="color:white"> , Research Intern - Division of "Observational Relativity and Cosmology" - Germany, Hannover - October 2021 to January 2022 - with Sumit Kumar (Alexander Nitz group)  
     *Project: Understanding the accuracy and bias in the estimation of Hubble constant using binary black hole merger events and galaxy catalogs* -</span> [Data: Gravitational wave data by LVK collaboration](https://indico.desy.de/event/28202/contributions/105590/attachments/67761/84535/EPS21_Lazzaro.pdf)
 - **[Max Planck Institue for Astronomy](https://www.mpia.de/en)**
-  <span style="color:white"> , Research Intern - High-z group, Division of "Cosmology and Galaxies" - Germany, Heidelberg - July 2021 to October 2021 - Supervisors: Sarah Bosman, Frederick Davies  
+  <span style="color:white"> , Research Intern - High-z group, Division of "Cosmology and Galaxies" - Germany, Heidelberg - July 2021 to October 2021 - with Sarah Bosman, Frederick Davies  
     *Project: Constraining temperature fluctuations in the IGM during the Helium reionization epoch* - </span> [Data: XQ100 legacy survey by VLT's XShooter spectrograph](https://arxiv.org/abs/1607.08776)
 - **[Sharif University of Technology](https://en.sharif.edu/)**
-  <span style="color:white"> , Research Assistant - Physics Department - Iran, Tehran - December 2020 to December 2021 - Supervisors: Shant Baghram, Sadegh Raeisi  
+  <span style="color:white"> , Research Assistant - Physics Department - Iran, Tehran - December 2020 to December 2021 - with Shant Baghram, Sadegh Raeisi  
     *Project: Studying the large scale dark matter structure formation using deep learning methods* - </span> [Data: gevolution simulation snapshots](https://arxiv.org/abs/1604.06065)
 
 
