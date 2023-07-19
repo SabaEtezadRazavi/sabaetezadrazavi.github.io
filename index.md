@@ -22,16 +22,16 @@ I'm a theoretical physicist seeking ways to bring together experiments and theor
 My interest spans a wide range of topics related to the Phenomenology of Quantum Gravity (or PQG or Pretty Quantum Gravity!) using different tools, observations, and table-top experiments. I have experience working with large cosmological data and simulations as well as exploring ways to operationally approach the question of Quantum Gravity using Quantum Information tools in table-top experiments. You can read more about my research in the research section.
 This is an exciting time for Quantum Gravity. After decades of pure theoretical efforts in the field, recent progress in multi-messenger astronomy and quantum technology enabling table-top experiments for QG has opened new promising windows to finally ask our questions from nature directly. Stay tuned!
 
-**Check out my public [CV](https://github.com/SabaEtezadRazavi/sabaetezadrazavi.github.io/blob/master/CV-recent.pdf) to know more about my works (this is not the most recent one and some links are disabled in this public version). If you want more information or just like to chat about science, send me an [email](mailto:setezadrazavi@uchicago.edu).**
+**Check out my public [CV](https://drive.google.com/file/d/1UwUTMWkYIkuy6i4p7r802eYzRfVcwA-X/view?usp=sharing) to know more about my works (this is not the most recent one and some links are disabled in this public version). If you want more information or just like to chat about science, send me an [email](mailto:setezadrazavi@uchicago.edu).**
 
 
 
 ## Education
 
-- **[The University of Chicago](https://astrophysics.uchicago.edu/)**, United States (Illinois) - Chicago - Ph.D. in Astronomy and Astrophysics, Starting September 2023 
+- **[The University of Chicago](https://astrophysics.uchicago.edu/)**  <span style="color:white">, United States (Illinois) - Chicago - Ph.D. in Astronomy and Astrophysics, Starting September 2023 </span>
 
-- **[Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/) and [University of Waterloo](https://uwaterloo.ca/)**, Canada (Ontario) - Waterloo - PSI program, MSc in Theoretical Physics, September 2022 to June 2023 - *Master Thesis: Gravity-Mediated Entanglement: an operational perspective", Supervised by Lucien Hardy.*
-- **[Sharif University of Technology](https://en.sharif.edu/)**, Iran - Tehran, BSc in Physics, 2017-2022 
+- **[Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/)**<span style="color:white"> and</span> **[University of Waterloo](https://uwaterloo.ca/)** <span style="color:white">, Canada (Ontario) - Waterloo - PSI program, MSc in Theoretical Physics, September 2022 to June 2023 - *Master Thesis: Gravity-Mediated Entanglement: an operational perspective", Supervised by Lucien Hardy.*</span>
+- **[Sharif University of Technology](https://en.sharif.edu/)**  <span style="color:white">, Iran - Tehran, BSc in Physics, 2017-2022 </span>
 
 
 
@@ -41,11 +41,11 @@ This is an exciting time for Quantum Gravity. After decades of pure theoretical 
  <span style="color:white"> , Research Intern - Division of "Observational Relativity and Cosmology" - Germany, Hannover - October 2021 to January 2022 - Supervisor: Sumit Kumar (Alexander Nitz group)  
     *Project: Understanding the accuracy and bias in the estimation of Hubble constant using binary black hole merger events and galaxy catalogs* -</span> [Data: Gravitational wave data by LVK collaboration](https://indico.desy.de/event/28202/contributions/105590/attachments/67761/84535/EPS21_Lazzaro.pdf)
 - **[Max Planck Institue for Astronomy](https://www.mpia.de/en)**
-  Research Intern - High-z group, Division of "Cosmology and Galaxies" - Germany, Heidelberg - July 2021 to October 2021 - Supervisors: Sarah Bosman, Frederick Davies  
-    *Project: Constraining temperature fluctuations in the IGM during the Helium reionization epoch* - [Data: XQ100 legacy survey by VLT's XShooter spectrograph](https://arxiv.org/abs/1607.08776)
+  <span style="color:white"> , Research Intern - High-z group, Division of "Cosmology and Galaxies" - Germany, Heidelberg - July 2021 to October 2021 - Supervisors: Sarah Bosman, Frederick Davies  
+    *Project: Constraining temperature fluctuations in the IGM during the Helium reionization epoch* - </span> [Data: XQ100 legacy survey by VLT's XShooter spectrograph](https://arxiv.org/abs/1607.08776)
 - **[Sharif University of Technology](https://en.sharif.edu/)**
-  Research Assistant - Physics Department - Iran, Tehran - December 2020 to December 2021 - Supervisors: Shant Baghram, Sadegh Raeisi  
-    *Project: Studying the large scale dark matter structure formation using deep learning methods* - [Data: gevolution simulation snapshots](https://arxiv.org/abs/1604.06065)
+  <span style="color:white"> , Research Assistant - Physics Department - Iran, Tehran - December 2020 to December 2021 - Supervisors: Shant Baghram, Sadegh Raeisi  
+    *Project: Studying the large scale dark matter structure formation using deep learning methods* - </span> [Data: gevolution simulation snapshots](https://arxiv.org/abs/1604.06065)
 
 
 
