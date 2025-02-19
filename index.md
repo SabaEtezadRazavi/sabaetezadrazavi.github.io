@@ -29,8 +29,9 @@ This is an exciting time for Quantum Gravity. After decades of pure theoretical 
 
 - **[The University of Chicago](https://astrophysics.uchicago.edu/)**  <span style="color:white">, United States (Illinois) - Chicago - Ph.D. in Astronomy and Astrophysics, Starting September 2023 </span>
 
-- **[Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/)**<span style="color:white"> and</span> **[University of Waterloo](https://uwaterloo.ca/)** <span style="color:white">, Canada (Ontario) - Waterloo - PSI program, MSc in Theoretical Physics, September 2022 to June 2023 - *Master Thesis: Gravity-Mediated Entanglement: an operational perspective", Supervised by Lucien Hardy.*</span>
-- **[Sharif University of Technology](https://en.sharif.edu/)**  <span style="color:white">, Iran - Tehran, BSc in Physics, 2017-2022 </span>
+- **[Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/)**<span style="color:white"> and</span> **[University of Waterloo](https://uwaterloo.ca/)** <span style="color:white">, Canada (Ontario) - Waterloo - PSI program, MSc in Theoretical Physics, 2023 - *Master Thesis: Gravity-Mediated Entanglement: an operational perspective", Supervised by Lucien Hardy.*</span>
+
+- **[Sharif University of Technology](https://en.sharif.edu/)**  <span style="color:white">, Iran - Tehran, BSc in Physics, 2022 </span>
 
 
 
