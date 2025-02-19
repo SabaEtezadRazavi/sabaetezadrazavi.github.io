@@ -21,6 +21,9 @@ tags: [sabaetezadrazavi,cosmology,astrophysic,machinelearning]
 
 
 
+# This page is vey out-dated! I need to find a time to update with my new works!
+
+
 I mostly do theory, data analysis, and machine learning in cosmology. Still, I would love to dig into actual observations whenever it happens.
 Most of the questions that keep me awake at night circle around finding the best cosmological model and theory of gravity.
 
