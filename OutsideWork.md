@@ -25,9 +25,7 @@ I explore the sky while working, and in my spare time, I search for what is left
 I love to explore new places and randomly walk or bike around cities to find antique bookstores, random treasures in old forgotten stores, or a beautiful silent spot to sit and read and watch the sunset. 
 
 
-I sometimes write short reviews in English and Persian on the books I read, which you can find on my Goodreads.
-(https://www.goodreads.com/user/show/151073804-saba-etezad-razavi) Goodreads (Click on the icons) 
-
+I sometimes write short reviews in English and Persian on the books I read, which you can find on my [Goodreads](https://www.goodreads.com/user/show/151073804-saba-etezad-razavi).
 
 
 
