@@ -18,11 +18,12 @@ tags: [sabaetezadrazavi]
 
 ## <span style="color:orange"> Journal papers </span>
 
-   
-2- Paradox with Phase Coupled Interferometers: [arXiv](https://arxiv.org/abs/2305.14241),
+3- A New Approach for Constraining Large-Scale Temperature Fluctuations in the Intergalactic Medium, [arXiv](https://arxiv.org/abs/2501.05575), [Saba Etezad-Razavi](https://orcid.org/0000-0001-7542-8915), Sarah E. I. Bosman, Frederick B. Davies
+
+2- Paradox with Phase Coupled Interferometers, [PhysRevA](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.110.042214), [arXiv](https://arxiv.org/abs/2305.14241),
 [Saba Etezad-Razavi](https://orcid.org/0000-0001-7542-8915), Lucien Hardy
 
-1- Unraveling the role of the cosmic velocity field in dark matter halo mass function using deep learning: [arXiv](https://arxiv.org/abs/2112.14743), 
+1- Cosmic velocity, density, and halo mass function: Insights from deep learning, [PhysRevD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.043521), [arXiv](https://arxiv.org/abs/2112.14743), 
 [Saba Etezad-Razavi](https://orcid.org/0000-0001-7542-8915), Erfan Abbasgholinejad, Mohammad-Hadi Sotoudeh, Farbod Hassani, Sadegh Raeisi, Shant Baghram
 
 
@@ -34,6 +35,12 @@ tags: [sabaetezadrazavi]
 
 
 ## <span style="color:orange"> Talks and conferences </span>
+
+8- September 2024 - In Quantum Gravity who's Quantum clock is right? (With Daine Danielson, First poster award): [Perimeter Institute - CausalWorlds conference](https://events.perimeterinstitute.ca/event/69/overview)
+
+7- September 2024 - Mellin space as a natural Habitant for cosmological correlators: Perimeter Institue Cosmology group meeting
+
+6- September 2023 - Gravity Mediated Entanglement, Lessons for Quantum Gravity: [Perimeter Insitute, Graduate conference](https://events.perimeterinstitute.ca/event/49/timetable/#20230914) 
 
 5- June 2022 - Unraveling the role of the cosmic velocity field in dark matter halo mass function using deep learning: [Paris Workshop on Bayesian Deep Learning for Cosmology and Time Domain Astrophysics](https://indico.in2p3.fr/event/26887/contributions/111747/) (Université Paris Cité - Paris)
 
