@@ -23,8 +23,6 @@ My interest spans a wide range of topics related to the Phenomenology of Quantum
 
 This is an exciting time for Quantum Gravity. After decades of pure theoretical efforts in the field, recent progress in multi-messenger astronomy and quantum technology enabling table-top experiments for QG has opened new promising windows to finally ask our questions from nature directly!
 
-**Check out my public [CV](https://drive.google.com/file/d/1UwUTMWkYIkuy6i4p7r802eYzRfVcwA-X/view?usp=sharing) to know more about my works (this is not the most recent one and some links are disabled in this public version). If you want more information or just like to chat about science, send me an [email](mailto:setezadrazavi@uchicago.edu).**
-
 
 
 ## Education
