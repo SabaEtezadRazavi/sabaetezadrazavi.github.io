@@ -51,8 +51,7 @@ This is an exciting time for Quantum Gravity. After decades of pure theoretical 
 
 ## Interests
 
-- <p style="color:white;"> Phenomenological Quantum Gravity (PQG) </p>
+- <p style="color:white;"> Quantum Field Theory in Curved Backgrounds (PQG) </p>
 - <p style="color:white;"> Early Universe Quantum Cosmology and Emergence of Classicality </p>
-- <p style="color:white;"> Operational tools for Quantum Gravity </p>
-- <p style="color:white;"> Observational Cosmology, particularly to answer questions in fundamental physics </p>
-- <p style="color:white;"> There was a time that I was interested in Machine Learning for Cosmology :)) </p>
+- <p style="color:white;"> Quantum Information tools in Quantum Gravity </p>
+- <p style="color:white;"> Observational Large Scale Cosmology, particularly to answer questions in fundamental physics </p>
